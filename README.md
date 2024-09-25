@@ -41,7 +41,7 @@ This application provides country details such as borders, population data, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/country-info-app.git
+git clone https://github.com/IvanPalii235/developstoday-test-task
 cd country-info-app
 ```
 
